@@ -4,7 +4,7 @@ Set of scripts to help in deployment of containers into Proxmox.
 
 based on great work of https://github.com/tteck/Proxmox
 
-# Kodi Media Manager LXC 
+# Kodi Media Manager LXC
 
 ## To create a new Proxmox Kodi Media Manager, run the following in the Proxmox Shell.
 
